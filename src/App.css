@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.room{
+  text-align: center;
+  padding: 20px;
+}
+
+h2{
+  color: aliceblue;
+}
+
+.dark{
+  background-color: black;
+}
+
+.lit{
+  background-color: grey;
+}
+
+.lit h2{
+  color: black;
+}
+
+button{
+  margin-right: 20px;
+}
+
+span{
+  position: relative;
+  display: inline-block;
+  bottom: 10px;
+  font-size: 12px;
+  margin-left:4px;
+}
